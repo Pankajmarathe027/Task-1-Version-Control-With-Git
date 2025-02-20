@@ -1,0 +1,9 @@
+Identify the Conflict: Git will inform you when a conflict occurs during a merge, showing conflicting lines in the file.
+
+Edit the Conflicting File: Open the file and look for the conflict markers (<<<<<<<, =======, >>>>>>>). These markers separate the changes from each branch.
+
+Choose a Conflict Resolution Strategy: Manually merge the changes, combining parts from both versions.
+
+Mark the Conflict as Resolved: Once you’ve resolved the conflict, stage the changes with git add.
+
+Commit the Merge Resolution: Complete the merge with git commit
