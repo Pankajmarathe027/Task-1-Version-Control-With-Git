@@ -1,0 +1,22 @@
+commit bf990bc62a9352a36ab141daf839226bff1d9da6 (HEAD -> main, origin/main)
+Merge: 5214fbf 31f47a6
+Author: root <root@ip-172-31-93-32.ec2.internal>
+Date:   Sun Feb 16 13:06:16 2025 +0000
+
+    Resolve merge conflict in file.txt
+
+commit 5214fbf2d7976031deac40aec610e04c23ff40e3
+Author: root <root@ip-172-31-93-32.ec2.internal>
+Date:   Sun Feb 16 12:58:19 2025 +0000
+
+    update file.txt in main
+
+commit 31f47a6a81521cf3693089e89a2df1bb833f8f8f (feature-branch)
+Author: root <root@ip-172-31-93-32.ec2.internal>
+Date:   Sun Feb 16 12:56:38 2025 +0000
+
+    update file.txt in feature-branch
+
+commit 27f921f975d36a3183aeb6d9aa8b38c1013bef34
+Author: root <root@ip-172-31-93-32.ec2.internal>
+Date:   Sun Feb 16 12:49:24 2025 +0000
