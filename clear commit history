@@ -1,3 +1,5 @@
+commit history using command: git log
+
 commit bf990bc62a9352a36ab141daf839226bff1d9da6 (HEAD -> main, origin/main)
 Merge: 5214fbf 31f47a6
 Author: root <root@ip-172-31-93-32.ec2.internal>
